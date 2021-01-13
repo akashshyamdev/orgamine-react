@@ -23,7 +23,7 @@
 		color: white;
 		margin-right: 3rem;
 
-		@include textUnderline(white, 3rem);
+		// @include textUnderline(white, 3rem);
 
 		&:hover {
 			color: white;
@@ -32,7 +32,7 @@
 
 		&--primary {
 			color: $color-primary;
-			@include textUnderline($color-primary, 3rem);
+			// @include textUnderline($color-primary, 3rem);
 		}
 	}
 }
