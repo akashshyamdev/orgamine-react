@@ -1,0 +1,23 @@
+.hr {
+	width: 6rem;
+	height: 10px;
+	background-color: $color-primary;
+	border: none;
+	border-radius: 2rem;
+	-webkit-border-radius: 2rem;
+	-moz-border-radius: 2rem;
+	-ms-border-radius: 2rem;
+	-o-border-radius: 2rem;
+
+	&--long {
+		width: 18.6rem;
+		height: 10px;
+		background-color: $color-primary;
+		border: none;
+		border-radius: 2rem;
+		-webkit-border-radius: 2rem;
+		-moz-border-radius: 2rem;
+		-ms-border-radius: 2rem;
+		-o-border-radius: 2rem;
+	}
+}

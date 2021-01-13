@@ -1,0 +1,33 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	width="60"
+	height="60"
+	viewBox="0 0 100.847 80.972"
+>
+	<g id="logo" transform="translate(4.512 4.527)">
+		<path
+			id="Path_1"
+			data-name="Path 1"
+			d="M37.264,5.2C58.2,3,76.7,18.718,78.01,38.673c1.37,20.993-16.778,38.917-37.664,38.246C20.144,76.272,3.763,58.4,5.078,38.673,6.177,22.118,19.5,7.833,37.264,5.2Z"
+			transform="translate(-5.004 -4.996)"
+			fill="none"
+			stroke="#ff755f"
+			stroke-linecap="round"
+			stroke-linejoin="bevel"
+			stroke-miterlimit="10"
+			stroke-width="9"
+		/>
+		<path
+			id="Path_2"
+			data-name="Path 2"
+			d="M179.092,6.385c-25.6-4.29-46.984,14.155-47.936,32.871-.976,19.14,19.37,40.017,45.882,37.264"
+			transform="translate(-87.939 -5.497)"
+			fill="none"
+			stroke="#ff755f"
+			stroke-linecap="round"
+			stroke-linejoin="bevel"
+			stroke-miterlimit="10"
+			stroke-width="9"
+		/>
+	</g>
+</svg>

@@ -1,0 +1,32 @@
+.quote {
+	width: 45%;
+	padding: 2rem;
+	background: white;
+	color: $color-primary;
+	font-family: 'Montserrat';
+	font-size: 1.4rem;
+	margin-top: -50px;
+
+	&:nth-of-type(even) {
+		margin-left: calc(52%);
+	}
+
+	&:first-child {
+		margin-top: 0px;
+	}
+
+	&:nth-child(3) {
+		margin-top: 4rem;
+	}
+
+	&__container {
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+	}
+
+	&--primary {
+		color: white;
+		background-color: $color-primary;
+	}
+}

@@ -1,0 +1,57 @@
+<!-- <svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="885.536"
+	height="930.364"
+	viewBox="0 0 1085.536 930.364"
+>
+	<defs>
+		<linearGradient
+			id="linear-gradient"
+			x1="-0.305"
+			y1="0.5"
+			x2="0.828"
+			y2="-0.185"
+			gradientUnits="objectBoundingBox"
+		>
+			<stop offset="0" stop-color="#f4b5a9" />
+			<stop offset="1" stop-color="#ff755f" />
+		</linearGradient>
+	</defs>
+	<path
+		id="Path_4"
+		data-name="Path 4"
+		d="M707.984,0s-29.2,308.907,322.2,302.243,250.044,184.948,241.038,194.092-111.167,135.312-266.4,46.99S723.338,764.678,858.874,858.154,1159.7,927.591,1159.7,927.591s346.177-15.6,511.345-196.128S1850.287,14.258,1608.551,0C1368.263.838,707.984,0,707.984,0Z"
+		transform="translate(-707.391)"
+		fill="url(#linear-gradient)"
+	/>
+</svg> -->
+
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="988.912"
+	height="930.364"
+	viewBox="0 0 988.912 930.364"
+>
+	<defs>
+		<linearGradient
+			id="linear-gradient"
+			x1="-0.305"
+			y1="0.5"
+			x2="0.828"
+			y2="-0.185"
+			gradientUnits="objectBoundingBox"
+		>
+			<stop offset="0" stop-color="#f4b5a9" />
+			<stop offset="1" stop-color="#ff755f" />
+		</linearGradient>
+	</defs>
+	<path
+		id="Path_4"
+		data-name="Path 4"
+		d="M707.931,0s-26.6,308.907,293.521,302.243,227.787,184.948,219.583,194.092-101.272,135.312-242.691,46.99S721.918,764.678,845.39,858.154s274.046,69.437,274.046,69.437,315.364-15.6,465.829-196.128S1748.556,14.258,1528.338,0C1309.438.838,707.931,0,707.931,0Z"
+		transform="translate(-707.391)"
+		fill="url(#linear-gradient)"
+	/>
+</svg>

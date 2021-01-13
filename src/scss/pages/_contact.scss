@@ -1,0 +1,28 @@
+.main {
+	&--contact {
+		min-height: 100vh;
+		background-color: $color-bg-light-1;
+
+		.map-box {
+			width: 100%;
+			height: calc(100vh - 139px);
+			background-color: $color-bg-light-2;
+			border: none;
+		}
+
+		.contact-bg {
+			position: absolute;
+			top: 0;
+			right: 20rem;
+			width: 30%;
+			height: 82%;
+			background-color: white;
+			border-bottom-right-radius: 2rem;
+			border-bottom-left-radius: 2rem;
+
+			.form__submit {
+				margin-right: -24rem;
+			}
+		}
+	}
+}

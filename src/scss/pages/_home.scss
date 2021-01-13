@@ -1,0 +1,22 @@
+.section {
+	&--hero {
+		display: flex;
+		justify-content: space-between;
+		min-height: 100vh;
+
+		.section__image {
+			margin-top: -8.1rem;
+			margin-right: 7rem;
+		}
+	}
+
+	&__content {
+		width: 37%;
+		margin-left: 7rem;
+		margin-top: 8rem;
+	}
+}
+
+.body--hero {
+	background-color: #fdf1ef;
+}

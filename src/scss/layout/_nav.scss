@@ -1,0 +1,38 @@
+.nav {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	// margin-bottom: 2rem;
+	padding: 1rem 3rem 0 3rem;
+
+	&__links {
+		display: flex;
+		flex-direction: row;
+		margin-right: 20rem;
+
+		&--normal {
+			margin-right: 1rem;
+		}
+	}
+
+	&__link {
+		position: relative;
+		font-family: 'Texturina';
+		font-size: 1.4rem;
+		text-decoration: none;
+		color: white;
+		margin-right: 3rem;
+
+		@include textUnderline(white, 3rem);
+
+		&:hover {
+			color: white;
+			text-decoration: none;
+		}
+
+		&--primary {
+			color: $color-primary;
+			@include textUnderline($color-primary, 3rem);
+		}
+	}
+}

@@ -1,0 +1,9 @@
+.main {
+	&--about {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		background-color: $color-bg-light-1;
+	}
+}

@@ -1,0 +1,52 @@
+.initiatives {
+	width: 80%;
+	background-color: white;
+	padding: 3rem;
+	border-radius: 2rem;
+	-webkit-border-radius: 2rem;
+	-moz-border-radius: 2rem;
+	-ms-border-radius: 2rem;
+	-o-border-radius: 2rem;
+
+	&__heading {
+		width: 30%;
+		background-color: $color-primary;
+		color: white;
+		float: left !important;
+		border-radius: 7px;
+		padding: 2rem;
+		font-size: 2rem;
+		font-weight: 900;
+		-webkit-border-radius: 7px;
+		-moz-border-radius: 7px;
+		-ms-border-radius: 7px;
+		-o-border-radius: 7px;
+		margin-top: 1rem;
+		margin-left: -7rem;
+		height: 160px;
+		margin-right: 5rem;
+	}
+
+	&__pt1 {
+		display: block;
+		padding-left: 1rem;
+		height: 200px;
+		margin-left: 1rem;
+		margin-top: 1rem;
+	}
+
+	&__features {
+		list-style: none;
+		font-size: 1rem;
+		font-family: 'Montserrat';
+	}
+
+	&__sub-heading {
+		font-size: 1.5rem;
+	}
+
+	i {
+		color: $color-primary;
+		font-size: 1.4rem;
+	}
+}

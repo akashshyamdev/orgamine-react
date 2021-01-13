@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Texturina&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+.heading-primary {
+	color: $color-primary;
+	font-family: 'Nerko One';
+	font-size: 4.5rem;
+}
+
+.heading-secondary {
+	font-family: 'Arvo';
+	font-weight: 700;
+	font-size: 4rem;
+}
+
+.heading-quaternary {
+	font-size: 1.8rem;
+	font-family: 'Texturina';
+	color: $text-color;
+}
+
+.heading-tertiary {
+	font-family: 'Montserrat';
+	font-weight: 600;
+	font-size: 2rem;
+	color: $text-color-dark;
+}
